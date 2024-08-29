@@ -34,5 +34,7 @@ public class ContaBanco {
             System.out.println("Saque não permitido.");
         }
 
+        scanner.close();
+
     }
 }
